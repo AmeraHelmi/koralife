@@ -1,0 +1,110 @@
+ @import "http://fonts.googleapis.com/earlyaccess/droidarabickufi.css";
+.grass {
+	background: rgba(0, 0, 0, 0) url("../images/k16158223.jpg") repeat scroll 0 0;
+	color: #fff;
+	font-family: "Droid Arabic Kufi", sans-serif;
+	font-size: 13px;
+	padding-top: 50px;
+}
+.rtl {
+	direction: rtl;
+}
+.btn {
+	border-radius: 0;
+}
+.bordered {
+	border: 1px solid #012940;
+}
+.matches {
+	background: #032E46;
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+.team-1 {
+	padding-left: 80px;
+	padding-right: 40px;
+	position: relative;
+}
+.team-1::before {
+	background: #043D5D;
+	content: "";
+	height: 24px;
+	position: absolute;
+	right: 0;
+	top: 30px;
+	width: 40px;
+}
+.team-1::after {
+	color: #fff;
+	content: "\f3d6";
+	font-family: "Ionicons";
+	position: absolute;
+	right: 15px;
+	top: 33px;
+}
+.team-2 {
+	padding-left: 40px;
+	padding-right: 80px;
+	position: relative;
+}
+.team-2::before {
+	background: #043D5D;
+	content: "";
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 30px;
+	width: 40px;
+}
+.team-2::after {
+	color: #fff;
+	content: "\f3d5";
+	font-family: "Ionicons";
+	left: 15px;
+	position: absolute;
+	top: 33px;
+}
+.team .bordered {
+	background: #043D5D;
+	padding-top: 10px;
+}
+.team img {
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+}
+.result {
+	background: #fff;
+	color: #032E46;
+	margin-top: -10px;
+}
+.result-info {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.result-info span {
+	background-color: #c82647;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	width: 60px;
+}
+.result-info span:nth-child(1) {
+	margin-right: 40px;
+}
+.result-info span:nth-child(2) {
+	background: #ee7546;
+	margin-left: 40px;
+}
+.stadum {
+	padding-left: 10px;
+}
+.live {
+	padding-top: 20px;
+}
+.modal-content {
+	border-radius: 0;
+}

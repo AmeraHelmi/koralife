@@ -1,0 +1,51 @@
+* { -webkit-border-radius: 0 !important;
+-moz-border-radius: 0 !important;
+border-radius: 0 !important;}
+body { background:url(../images/footer_lodyas.png)}
+.mash-menu section.mash-menu-inner-container { background:#032e46 !important;}
+.mash-menu.separator .mash-brand > li > a, .mash-menu.separator .mash-list-items > li > a { border-color:#012940 !important;}
+.mash-menu .mash-list-items > li.active > a { background:#c82647 !important;}
+.mash-menu .drop-down { -webkit-border-radius: 0!important;
+-moz-border-radius: 0!important;
+border-radius:0 !important; background:#043d5d !important; min-width:220px !important;}
+.mash-menu .drop-down li { border-bottom:1px solid #012940 !important;}
+.mash-menu .drop-down li:last-child { border-bottom:none;}
+.drop-down li a:hover { background:#c82647 !important;}
+.themeum-club-ranking, .themeum-recent-result   { direction:rtl;}
+#main-menu .sub-menu li.active, #main-menu .nav > li > ul li:hover, #main-menu .nav > li.nav-myacount a, .wpcf7-form-control.wpcf7-submit, #comments .form-submit #submit, #navigation .navbar-header .navbar-toggle, .themeum-pagination .pagination > .active > a, .themeum-pagination .pagination > .active > a:focus, .themeum-pagination .pagination > .active > a:hover, .themeum-pagination .pagination > .active > span, .themeum-pagination .pagination > .active > span:focus, .themeum-pagination .pagination > .active > span:hover, .themeum-pagination .pagination > li > a:focus, .themeum-pagination .pagination > li > a:hover, .themeum-pagination .pagination > li > span:focus, .themeum-pagination .pagination > li > span:hover, .highlights-intro .entry-category a, .popular-news-intro .entry-category a, .themeum-title .icon-bar, .gallery-controll .flex-direction-nav a, .gallery-controll-thumb .flex-direction-nav a, .breaking-news-title h2, #main-menu .nav .signup-signin a, .poll-submit, .player-share ul li a:hover, .match-comment-login, .point-table-head, .fixture-teams-list h3.fixture-title, .player-name-inner .more, .fixture-teams-list h3.fixture-title, .highlights-style2-item .entry-category a, .themeum-featured-control a, .player-carousel-control a, .themeum-smart-link .pull-right:hover, .flexslider .slides.gallery-thumb-image li:hover, .breaking-news-title h2::before, .latest-team .latest-team-a, .latest-team .latest-team-b, .goal-timeline ul.goal-timeline1::after, .goal-timeline ul.goal-timeline2::after, .honours-intro .pull-left, .btn.btn-style, #main-menu .nav > li.signup-signin > a:focus, .widget .tagcloud a, .entry-blog-meta ul li.category a, #sign-form form input.btn-block, .themeum-register, .themeum-reg, .slider2-title, .nav.club-details-tab-nav > li > a::after, .home-btn, .post-navigation .previous-post a, .post-navigation .next-post a, .woocommerce .product-thumbnail-outer .add_to_cart_button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce-page .widget_price_filter .price_slider_amount .button, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-product-search input[type="submit"], .product-thumbnail-outer-inner span.product-cat a, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce a.button, .woocommerce input.button, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, #navigation .woocommerce .widget_shopping_cart .buttons > a:hover, #navigation .woocommerce.widget_shopping_cart .buttons > a.wc-forward, .cart-has-products { background-color:#c82647 !important;}
+#recent-result .themeum-title h2, #club-ranking .themeum-title h2 { padding-right:15px !important; }
+#recent-result .themeum-title h2, #club-ranking .themeum-title h2 { font-size:17px !important;}
+.themeum-title h2 span { font-weight:inherit !important;}
+.themeum-recent-result-inner { background:#032e46 !important; background-image:none !important; padding:10px  !important;}
+.club-ranking-inner li, .themeum-recent-result-item{ background:#043d5d !important; border-left: 1px solid #012940;}
+.club-ranking-inner ul:hover, .themeum-recent-result-item:hover, .club-ranking-inner:hover li { background:#c82647 !important;}
+.carousel-inner .item, .carousel-inner > .active, .item { background-image:none !important; padding:0 15px;}
+.mash-menu * { font-family: "Droid Arabic Kufi", sans-serif; 
+	font-size: 13px;}
+	.mash-menu.separator .mash-brand > li > a, .mash-menu.separator .mash-list-items > li > a { font-weight: normal !important; }
+	.mash-menu .mash-list-items > li > a i.fa.fa-indicator {
+    float: left !important;
+    padding-left:0 !important;
+}
+.recent-result-control a.left, .club-ranking-control a.left { float: left !important;}
+.themeum-recent-result-list .goal { background:#c82647 !important;}
+.themeum-recent-result-item:hover .goal { background:#043d5d !important;}
+.themeum-recent-result-inner .clubnames {background:#043d5d !important; border-bottom:1px solid #012940 !important;}
+.fcopy {background:#032e46 !important; }
+.club-ranking-inner li { float:right !important; text-align:center; height:50px; line-height:25px !important;}
+.text-right { text-align:right !important;}
+.page-title .lead {color:#c82647 !important; font-size:34px !important; }
+.page-title .border-style, .page-title .border-style::before  { border-color:#043d5d !important;}
+.mash-menu .drop-down-large, .mash-menu .drop-down-medium { width:1170px !important; max-width:1170px; position:absolute !important; right:0 !important; background:#032e46 !important; opacity:1 !important; padding-right:10px !important;}
+.group h4 { font-size:13px !important; color:#c82647 !important;}
+.mash-menu .list-items a, .mash-menu .order-items a { font-size:12px !important;}
+.main-container { background:#fff;}
+.navbar { margin-bottom:0 !important; border:0 !important;}
+#jssor_1 { margin-top:-3px !important;}
+.mash-menu section.mash-menu-inner-container { height:57px !important; }
+.mash-menu .mash-list-items > li > a { padding:15px !important;}
+.mash-menu.separator .mash-brand > li > a, .mash-menu.separator .mash-list-items > li:first-child > a { border:none;}
+.mash-list-items { float:left !important;}
+.mash-brand { float:right !important;}
+.section.about { background:#fff !important;}
+.grass { background:#fff !important;}

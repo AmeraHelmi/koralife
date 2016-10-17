@@ -1,0 +1,411 @@
+[29-Feb-2016 12:55:20 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appraising/app_releases/APP3/storage/framework/views/1eb9457905adc8fd08956303fc079fc8 on line 20
+[29-Feb-2016 12:56:03 UTC] PHP Parse error:  syntax error, unexpected '$employee' (T_VARIABLE) in /home/appraising/app_releases/APP3/storage/framework/views/1eb9457905adc8fd08956303fc079fc8 on line 20
+[29-Feb-2016 12:56:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/storage/framework/views/1eb9457905adc8fd08956303fc079fc8 on line 20
+[29-Feb-2016 15:41:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appraising/app_releases/APP3/storage/framework/views/6d92a37ca6e67a0f8970ef076f1c73a1 on line 66
+[01-Mar-2016 08:36:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\AuthController::get_data() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 40
+[01-Mar-2016 09:08:12 UTC] PHP Fatal error:  Class 'App\Services\Auth' not found in /home/appraising/app_releases/APP3/app/Services/Registrar.php on line 66
+[01-Mar-2016 09:11:23 UTC] PHP Fatal error:  Trait 'App\Services\AuthenticatesAndRegistersUsers' not found in /home/appraising/app_releases/APP3/app/Services/Registrar.php on line 19
+[01-Mar-2016 09:16:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Services/Registrar.php on line 24
+[01-Mar-2016 09:22:20 UTC] PHP Fatal error:  Call to undefined function App\Services\verfiy() in /home/appraising/app_releases/APP3/app/Services/Registrar.php on line 61
+[01-Mar-2016 09:26:22 UTC] PHP Fatal error:  Class 'App\Models\Auth' not found in /home/appraising/app_releases/APP3/app/Models/User.php on line 102
+[06-Mar-2016 09:45:31 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::whereHas() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 46
+[06-Mar-2016 09:46:14 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::whereHas() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 46
+[06-Mar-2016 12:11:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/appraising/app_releases/APP3/storage/framework/views/1eb9457905adc8fd08956303fc079fc8 on line 32
+[06-Mar-2016 12:59:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 128
+[06-Mar-2016 13:00:24 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 128
+[06-Mar-2016 13:03:24 UTC] PHP Parse error:  syntax error, unexpected '$user_email' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 128
+[06-Mar-2016 13:11:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 133
+[06-Mar-2016 13:11:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 133
+[06-Mar-2016 13:23:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 129
+[06-Mar-2016 13:23:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 129
+[06-Mar-2016 13:24:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 130
+[06-Mar-2016 13:25:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 132
+[06-Mar-2016 13:27:07 UTC] PHP Fatal error:  Class 'App\Session' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 132
+[06-Mar-2016 14:18:02 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Auth\session_flush() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 132
+[07-Mar-2016 07:11:46 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Auth\getpathinfo() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 126
+[07-Mar-2016 07:13:20 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Auth\getPathInfo() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 126
+[07-Mar-2016 07:18:41 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Auth\getpathinfo() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 126
+[07-Mar-2016 07:19:04 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Auth\getinfopath() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 126
+[07-Mar-2016 11:08:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5684981 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 791
+[07-Mar-2016 11:09:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5684981 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 791
+[07-Mar-2016 16:27:58 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\distinct() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 61
+[07-Mar-2016 16:30:43 UTC] PHP Fatal error:  Call to a member function distinct() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 61
+[07-Mar-2016 16:33:37 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 61
+[07-Mar-2016 16:38:23 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/appraising/app_releases/APP3/app/Http/Middleware/RedirectIfAuthenticated.php on line 36
+[07-Mar-2016 16:38:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/appraising/app_releases/APP3/app/Http/Middleware/RedirectIfAuthenticated.php on line 36
+[07-Mar-2016 16:38:42 UTC] PHP Fatal error:  Call to undefined function App\Http\Middleware\getPathInfo() in /home/appraising/app_releases/APP3/app/Http/Middleware/RedirectIfAuthenticated.php on line 36
+[08-Mar-2016 11:23:00 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 48
+[08-Mar-2016 11:40:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Auth\AuthController::postLogin() in /home/appraising/app_releases/APP3/app/Http/Controllers/Auth/AuthController.php on line 110
+[09-Mar-2016 08:42:30 UTC] PHP Parse error:  syntax error, unexpected '$request' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 237
+[09-Mar-2016 08:53:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 84
+[09-Mar-2016 08:55:14 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 86
+[09-Mar-2016 09:32:04 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 102
+[09-Mar-2016 09:33:13 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 102
+[09-Mar-2016 09:34:10 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 101
+[09-Mar-2016 09:35:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 102
+[09-Mar-2016 09:35:43 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 102
+[09-Mar-2016 09:37:25 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 101
+[09-Mar-2016 11:51:25 UTC] PHP Fatal error:  Call to a member function Delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:51:28 UTC] PHP Fatal error:  Call to a member function Delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:51:32 UTC] PHP Fatal error:  Call to a member function Delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:51:41 UTC] PHP Fatal error:  Call to a member function Delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:51:54 UTC] PHP Fatal error:  Call to a member function Delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:52:44 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:52:45 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:55:30 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:55:54 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 11:58:12 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:08:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:13:37 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:19:49 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:23:07 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:27:53 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 12:29:56 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::delete() in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:30:29 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::delete() in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 12:31:57 UTC] PHP Fatal error:  Call to a member function delete() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 12:33:20 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 12:38:55 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 12:39:56 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 12:57:42 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 82
+[09-Mar-2016 13:21:26 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 13:23:51 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 13:24:55 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 13:30:07 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 83
+[09-Mar-2016 14:06:06 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE) in /home/appraising/app_releases/APP3/storage/framework/views/032607088f4e1842670e9fb03c1af1cd on line 62
+[09-Mar-2016 14:42:36 UTC] PHP Parse error:  syntax error, unexpected 'by' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[09-Mar-2016 14:42:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[09-Mar-2016 14:43:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[09-Mar-2016 14:44:27 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:45:10 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:46:30 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:49:38 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:50:14 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:51:42 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 14:56:05 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 80
+[09-Mar-2016 15:00:36 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 15:06:14 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[09-Mar-2016 15:07:21 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 81
+[10-Mar-2016 07:49:51 UTC] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/appraising/app_releases/APP3/storage/framework/views/5f764b451389c3d9e1606b3ccc1b5d9b on line 60
+[10-Mar-2016 08:09:09 UTC] PHP Parse error:  syntax error, unexpected '" value="' (T_CONSTANT_ENCAPSED_STRING) in /home/appraising/app_releases/APP3/storage/framework/views/5f764b451389c3d9e1606b3ccc1b5d9b on line 59
+[10-Mar-2016 08:09:48 UTC] PHP Parse error:  syntax error, unexpected '" value="' (T_CONSTANT_ENCAPSED_STRING) in /home/appraising/app_releases/APP3/storage/framework/views/5f764b451389c3d9e1606b3ccc1b5d9b on line 59
+[13-Mar-2016 10:58:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/storage/framework/views/032607088f4e1842670e9fb03c1af1cd on line 72
+[13-Mar-2016 12:10:47 UTC] PHP Parse error:  syntax error, unexpected 'created_at' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 12:12:07 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 12:12:27 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 12:12:50 UTC] PHP Parse error:  syntax error, unexpected 'max' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 12:13:05 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 12:14:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 44
+[13-Mar-2016 13:58:08 UTC] PHP Parse error:  syntax error, unexpected 'view' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 48
+[13-Mar-2016 13:58:28 UTC] PHP Parse error:  syntax error, unexpected 'view' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 48
+[13-Mar-2016 16:34:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 101
+[13-Mar-2016 16:40:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 98
+[13-Mar-2016 16:43:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 94
+[14-Mar-2016 08:11:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 99
+[14-Mar-2016 08:11:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 104
+[15-Mar-2016 10:12:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 137
+[15-Mar-2016 10:18:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 137
+[15-Mar-2016 10:19:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 145
+[15-Mar-2016 10:20:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 126
+[15-Mar-2016 10:22:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 144
+[15-Mar-2016 10:22:17 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 139
+[15-Mar-2016 10:22:26 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 139
+[15-Mar-2016 10:25:31 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 142
+[15-Mar-2016 10:25:38 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 142
+[15-Mar-2016 10:28:20 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 10:28:44 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 10:28:52 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 10:29:03 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 10:29:41 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 10:30:02 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 115
+[15-Mar-2016 12:53:18 UTC] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 95
+[15-Mar-2016 12:53:27 UTC] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 95
+[15-Mar-2016 12:53:47 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 95
+[15-Mar-2016 12:54:27 UTC] PHP Parse error:  syntax error, unexpected 'validate' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 116
+[15-Mar-2016 12:54:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 117
+[15-Mar-2016 13:46:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 101
+[15-Mar-2016 14:25:39 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 118
+[15-Mar-2016 14:27:30 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:39 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:40 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:40 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:40 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:41 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:41 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:41 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:41 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:41 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:42 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:42 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:42 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:42 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:43 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:43 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:44 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:44 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[15-Mar-2016 14:27:44 UTC] PHP Fatal error:  Call to a member function tojson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 119
+[16-Mar-2016 07:40:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:40:15 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:40:22 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:40:22 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:40:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:40:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:41:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:41:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:41:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 07:41:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 127
+[16-Mar-2016 11:08:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 132
+[16-Mar-2016 15:19:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 119
+[17-Mar-2016 06:54:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 371
+[17-Mar-2016 08:25:03 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 359
+[17-Mar-2016 08:27:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 362
+[17-Mar-2016 08:27:55 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 362
+[17-Mar-2016 08:28:24 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 373
+[17-Mar-2016 08:30:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 361
+[17-Mar-2016 08:31:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 361
+[17-Mar-2016 08:31:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 362
+[17-Mar-2016 09:16:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 372
+[17-Mar-2016 09:53:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 67
+[17-Mar-2016 09:53:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 67
+[17-Mar-2016 10:40:35 UTC] PHP Parse error:  syntax error, unexpected '$employee' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 104
+[17-Mar-2016 10:54:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 65
+[17-Mar-2016 10:55:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 65
+[17-Mar-2016 10:56:56 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 65
+[17-Mar-2016 10:57:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 65
+[17-Mar-2016 11:04:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 87
+[17-Mar-2016 11:18:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 88
+[17-Mar-2016 11:18:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 84
+[17-Mar-2016 12:05:50 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 1
+[17-Mar-2016 12:29:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 169
+[20-Mar-2016 09:56:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 187
+[20-Mar-2016 10:22:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 161
+[20-Mar-2016 11:30:20 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 342
+[20-Mar-2016 11:40:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 188
+[20-Mar-2016 11:50:36 UTC] PHP Fatal error:  Call to undefined function App\Models\type_of() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 181
+[20-Mar-2016 11:50:53 UTC] PHP Fatal error:  Call to undefined function App\Models\type_of() in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 181
+[20-Mar-2016 12:04:27 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 347
+[20-Mar-2016 12:10:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 179
+[20-Mar-2016 12:28:55 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 352
+[20-Mar-2016 13:06:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 119
+[20-Mar-2016 13:10:25 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/appraising/app_releases/APP3/storage/framework/views/a31a5f24e932a2754cf61ee262a42ca3 on line 387
+[20-Mar-2016 13:27:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 161
+[21-Mar-2016 07:09:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 201
+[21-Mar-2016 08:24:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/appraising/app_releases/APP3/app/Http/Controllers/ReportsController.php on line 38
+[21-Mar-2016 08:59:05 UTC] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 181
+[21-Mar-2016 12:35:25 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 122
+[21-Mar-2016 12:41:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 124
+[21-Mar-2016 13:54:38 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 13:54:43 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 13:54:46 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 13:54:51 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 13:54:53 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 13:57:30 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 146
+[21-Mar-2016 16:03:58 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '$' in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 37
+[21-Mar-2016 16:08:31 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 40
+[21-Mar-2016 16:10:44 UTC] PHP Parse error:  syntax error, unexpected '@', expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 41
+[21-Mar-2016 16:10:54 UTC] PHP Parse error:  syntax error, unexpected 'appraising' (T_STRING), expecting ']' in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 41
+[21-Mar-2016 16:27:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\employee_group' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 56
+[21-Mar-2016 16:37:42 UTC] PHP Fatal error:  Class 'App\Models\Employee_group' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 57
+[21-Mar-2016 16:39:12 UTC] PHP Fatal error:  Class 'App\Models\Employee_group' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 57
+[21-Mar-2016 17:55:28 UTC] PHP Fatal error:  Call to a member function toJson() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 81
+[22-Mar-2016 07:36:30 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 103
+[22-Mar-2016 07:36:48 UTC] PHP Fatal error:  Can't use function return value in write context in /home/appraising/app_releases/APP3/app/Http/Controllers/EmployeeController.php on line 103
+[22-Mar-2016 09:23:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[22-Mar-2016 09:24:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[22-Mar-2016 09:24:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[22-Mar-2016 09:24:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[22-Mar-2016 09:25:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 09:26:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 09:26:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 09:27:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 09:30:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 09:33:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 09:37:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 10:10:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 10:46:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 63
+[22-Mar-2016 11:35:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1698
+[22-Mar-2016 11:46:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1843
+[22-Mar-2016 11:46:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1843
+[22-Mar-2016 11:47:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1843
+[22-Mar-2016 12:35:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1698
+[22-Mar-2016 13:06:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 36
+[22-Mar-2016 13:08:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 36
+[22-Mar-2016 13:23:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 36
+[22-Mar-2016 13:23:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 38
+[22-Mar-2016 13:23:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 13:24:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 13:32:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 38
+[22-Mar-2016 13:43:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 41
+[22-Mar-2016 13:59:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 14:06:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 14:07:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/appraising/app_releases/APP3/app/Models/Group.php on line 37
+[22-Mar-2016 14:08:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 2818
+[22-Mar-2016 14:59:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1685
+[22-Mar-2016 15:03:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[22-Mar-2016 15:09:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5772005 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[22-Mar-2016 15:10:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5772005 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[22-Mar-2016 15:12:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5772005 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 362
+[22-Mar-2016 15:14:57 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 2
+[22-Mar-2016 15:15:22 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 2
+[22-Mar-2016 15:15:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 2
+[22-Mar-2016 15:16:00 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 2
+[22-Mar-2016 15:16:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 2
+[22-Mar-2016 15:24:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[22-Mar-2016 15:24:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:34:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:34:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:34:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:34:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:34:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:35:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:35:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:36:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:36:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 07:37:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 08:38:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4980945 bytes) in /home/appraising/app_releases/APP3/vendor/itsgoingd/clockwork/Clockwork/DataSource/EloquentDataSource.php on line 77
+[23-Mar-2016 10:12:30 UTC] PHP Fatal error:  Call to a member function take() on a non-object in /home/appraising/app_releases/APP3/app/Models/Process.php on line 46
+[23-Mar-2016 10:17:57 UTC] PHP Fatal error:  Call to a member function take() on a non-object in /home/appraising/app_releases/APP3/app/Models/Process.php on line 46
+[23-Mar-2016 10:22:14 UTC] PHP Fatal error:  Call to a member function take() on a non-object in /home/appraising/app_releases/APP3/app/Models/Process.php on line 46
+[23-Mar-2016 10:25:17 UTC] PHP Fatal error:  Call to a member function take() on a non-object in /home/appraising/app_releases/APP3/app/Models/Process.php on line 46
+[23-Mar-2016 11:24:27 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting '{' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 8
+[23-Mar-2016 11:25:26 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting '{' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 8
+[23-Mar-2016 11:27:00 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting '{' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 8
+[23-Mar-2016 12:31:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1685
+[23-Mar-2016 12:32:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1685
+[23-Mar-2016 12:33:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 92 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1685
+[23-Mar-2016 13:04:53 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 170
+[23-Mar-2016 13:04:58 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 170
+[23-Mar-2016 14:24:57 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 45
+[23-Mar-2016 14:25:34 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 51
+[23-Mar-2016 14:53:20 UTC] PHP Parse error:  syntax error, unexpected 'process_id' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 54
+[23-Mar-2016 14:54:11 UTC] PHP Parse error:  syntax error, unexpected 'process_id' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 53
+[23-Mar-2016 14:54:37 UTC] PHP Parse error:  syntax error, unexpected 'assignments_role_id' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 54
+[23-Mar-2016 14:54:53 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 55
+[23-Mar-2016 14:55:07 UTC] PHP Parse error:  syntax error, unexpected 'weight' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 55
+[23-Mar-2016 14:55:16 UTC] PHP Parse error:  syntax error, unexpected 'employee_id' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 55
+[23-Mar-2016 14:55:28 UTC] PHP Parse error:  syntax error, unexpected 'questions' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 56
+[23-Mar-2016 14:58:31 UTC] PHP Parse error:  syntax error, unexpected '$assignment' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 54
+[23-Mar-2016 14:58:47 UTC] PHP Parse error:  syntax error, unexpected '$assignment' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 54
+[23-Mar-2016 14:58:56 UTC] PHP Parse error:  syntax error, unexpected '$assignment' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 55
+[23-Mar-2016 15:07:52 UTC] PHP Parse error:  syntax error, unexpected 'questions' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 52
+[23-Mar-2016 15:09:49 UTC] PHP Parse error:  syntax error, unexpected 'json_decode' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 52
+[23-Mar-2016 15:10:36 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 52
+[23-Mar-2016 15:54:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 15:55:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 15:55:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 15:55:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:00:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:05:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/app/Http/Controllers/QcgenerateController.php on line 69
+[23-Mar-2016 16:17:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:17:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:17:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:17:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:18:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:19:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:19:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:19:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:19:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:19:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:20:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:21:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:21:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:21:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:28:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:28:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:28:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[23-Mar-2016 16:28:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:18:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:19:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:21:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:21:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:28:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 07:31:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 07:31:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5424 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 07:31:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 07:33:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4381 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 07:35:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 07:36:46 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 38
+[24-Mar-2016 07:36:59 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 41
+[24-Mar-2016 07:59:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:07:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:07:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:20:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:21:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 128 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:23:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:23:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:24:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 128 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:24:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 128 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:29:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:29:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 416
+[24-Mar-2016 08:29:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 416
+[24-Mar-2016 08:34:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 80 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:34:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:37:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4497 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:37:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:37:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 08:38:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4497 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:38:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 79 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:44:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[24-Mar-2016 08:44:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3103 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[24-Mar-2016 10:25:54 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 57
+[24-Mar-2016 11:05:41 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 59
+[24-Mar-2016 12:08:01 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 59
+[24-Mar-2016 12:09:01 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 59
+[24-Mar-2016 12:09:53 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 170
+[24-Mar-2016 12:11:16 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 348
+[24-Mar-2016 12:11:20 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 348
+[24-Mar-2016 12:11:27 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 348
+[24-Mar-2016 12:12:00 UTC] PHP Fatal error:  Call to a member function getData() on a non-object in /home/appraising/app_releases/APP3/storage/framework/views/1220686db86e8b55c82878fb9475cf8b on line 364
+[24-Mar-2016 12:22:46 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 59
+[27-Mar-2016 07:41:41 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 42
+[27-Mar-2016 08:29:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 41197416 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[27-Mar-2016 08:44:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 41197416 bytes) in /home/appraising/app_releases/APP3/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 294
+[27-Mar-2016 10:26:47 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/appraising/app_releases/APP3/app/Models/Process.php on line 58
+[27-Mar-2016 11:21:50 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=2968 in Unknown on line 0
+[27-Mar-2016 11:21:50 UTC] PHP Warning:  Error while sending STMT_CLOSE packet. PID=3443 in Unknown on line 0
+[27-Mar-2016 12:06:08 UTC] PHP Fatal error:  Call to undefined function App\Models\mysqli_connect() in /home/appraising/app_releases/APP3/app/Models/Process.php on line 42
+[27-Mar-2016 12:06:41 UTC] PHP Fatal error:  Class 'App\Models\mysqli' not found in /home/appraising/app_releases/APP3/app/Models/Process.php on line 42
+[27-Mar-2016 12:14:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 53
+[27-Mar-2016 12:17:56 UTC] PHP Fatal error:  Class 'App\Models\mysql' not found in /home/appraising/app_releases/APP3/app/Models/Process.php on line 53
+[27-Mar-2016 12:20:19 UTC] PHP Fatal error:  Class 'App\Models\PDO' not found in /home/appraising/app_releases/APP3/app/Models/Process.php on line 45
+[27-Mar-2016 12:25:01 UTC] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/appraising/app_releases/APP3/app/Models/Process.php on line 60
+[27-Mar-2016 12:34:10 UTC] PHP Fatal error:  Call to undefined method PDO::bind_param() in /home/appraising/app_releases/APP3/app/Models/Process.php on line 60
+[27-Mar-2016 12:39:54 UTC] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/appraising/app_releases/APP3/app/Models/Process.php on line 59
+[27-Mar-2016 12:42:14 UTC] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/appraising/app_releases/APP3/app/Models/Process.php on line 63
+[27-Mar-2016 13:06:39 UTC] PHP Parse error:  syntax error, unexpected '$matstring' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 57
+[27-Mar-2016 13:07:07 UTC] PHP Parse error:  syntax error, unexpected '$matstring' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 57
+[27-Mar-2016 13:07:24 UTC] PHP Parse error:  syntax error, unexpected '$matstring' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 57
+[27-Mar-2016 14:29:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/appraising/app_releases/APP3/app/Models/Process.php on line 53
+[28-Mar-2016 15:28:43 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/appraising/app_releases/APP3/app/Models/AssignmentsRole.php on line 48
+[28-Mar-2016 15:30:43 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/appraising/app_releases/APP3/app/Models/AssignmentsRole.php on line 48
+[29-Mar-2016 10:13:23 UTC] PHP Parse error:  syntax error, unexpected 'start' (T_STRING), expecting '(' in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 121
+[29-Mar-2016 10:15:49 UTC] PHP Fatal error:  Class 'App\Models\DB' not found in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 84
+[30-Mar-2016 09:16:18 UTC] PHP Parse error:  syntax error, unexpected '$test' (T_VARIABLE), expecting function (T_FUNCTION) in /home/appraising/app_releases/APP3/app/Models/Process.php on line 57
+[30-Mar-2016 09:20:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 67
+[30-Mar-2016 13:03:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 86
+[30-Mar-2016 13:09:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 86
+[30-Mar-2016 13:09:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Models/Process.php on line 86
+[31-Mar-2016 06:55:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/appraising/app_releases/APP3/app/Models/Assignment.php on line 97
+[31-Mar-2016 07:46:25 UTC] PHP Parse error:  syntax error, unexpected '$process_id' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentsRoleController.php on line 39
+[31-Mar-2016 07:46:36 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 07:47:51 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 07:56:26 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 08:00:45 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 08:01:27 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 08:02:08 UTC] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/appraising/app_releases/APP3/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[31-Mar-2016 09:07:10 UTC] PHP Parse error:  syntax error, unexpected 'process' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/routes.php on line 46
+[31-Mar-2016 09:07:44 UTC] PHP Parse error:  syntax error, unexpected 'process' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/routes.php on line 52
+[31-Mar-2016 09:08:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProcessController::status() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 251
+[31-Mar-2016 09:08:53 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\ProcessController::status() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 251
+[31-Mar-2016 09:23:27 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 243
+[31-Mar-2016 09:24:13 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 44
+[31-Mar-2016 09:37:35 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 44
+[31-Mar-2016 09:38:28 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/appraising/app_releases/APP3/app/Models/Process.php on line 44
+[31-Mar-2016 09:42:13 UTC] PHP Parse error:  syntax error, unexpected '$process_id' (T_VARIABLE) in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 244
+[31-Mar-2016 10:25:25 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::rebuild() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 247
+[31-Mar-2016 10:28:10 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::rebuild() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 247
+[31-Mar-2016 10:28:40 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::rebuild() in /home/appraising/app_releases/APP3/app/Http/Controllers/ProcessController.php on line 247
+[03-Apr-2016 08:55:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 33
+[03-Apr-2016 08:55:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 33
+[03-Apr-2016 08:59:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 96
+[03-Apr-2016 09:50:57 UTC] PHP Parse error:  syntax error, unexpected 'display' (T_STRING) in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 98
+[03-Apr-2016 10:31:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appraising/app_releases/APP3/app/Http/Controllers/AssignmentController.php on line 39

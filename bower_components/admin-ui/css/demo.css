@@ -1,0 +1,27 @@
+.options
+{padding:1px 20px 20px;background:white;max-width:800px;margin:0 auto;float:none;clear:both;position:relative;top:50px;font-family:sans-serif;border-radius:4px;color:#333}
+.options dt{font-weight:bold}.options p{font-size:small;text-transform:capitalize}
+.options *{outline:none;text-decoration:none;box-sizing:border-box;padding:0;margin:0;border:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.options label{font-size:small;color:#33333c;cursor:pointer;padding:10px 15px;display:inline-block}
+.options label input{cursor:pointer;position:relative;left:5px}
+.options label output{display:block;text-align:center;padding-top:10px}.options label p{text-align:center;padding-bottom:10px}
+.options hr{border-bottom:1px solid rgba(0,0,0,0.1);clear:both;width:100%;display:block;margin-top:10px;margin-bottom:10px}
+.options dt{margin-top:20px}.options .colors{clear:both}
+.options .colors div{height:30px;width:30px;background:black;border-radius:4px;margin:3px;cursor:pointer;display:inline-block;position:relative}
+.options .colors div.active:before{display:block}.options .colors div:before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;font-family:FontAwesome;color:whitesmoke;text-align:center;line-height:30px;display:none}.options .colors div:nth-child(1){background:#f44336}
+.options .colors div:nth-child(2){background:#e91e63}.options .colors div:nth-child(3){background:#ab2bc1}
+.options .colors div:nth-child(4){background:#7142c3}.options .colors div:nth-child(5){background:#3f51b5}
+.options .colors div:nth-child(6){background:#00bcd4}.options .colors div:nth-child(7){background:#009688}
+.options .colors div:nth-child(8){background:#4caf50}.options .colors div:nth-child(9){background:#8bc34a}
+.options .colors div:nth-child(10){background:#cddc39}.options .colors div:nth-child(11){background:#ffeb3b}
+.options .colors div:nth-child(12){background:#ffc107}.options .colors div:nth-child(13){background:#ff9800}
+.options .colors div:nth-child(14){background:#ff5722}
+.options .colors div:nth-child(15){background:#795548}.options .colors div:nth-child(16){background:#9e9e9e}
+.options .colors div:nth-child(17){background:#688897}.options .colors div:nth-child(18){background:#514e51}
+.options .colors div:nth-child(19){background:#03a9f4}
+.mash-brand li a img{display:none !important}.mash-brand.show li a i.fa{display:none}.mash-brand.show li a span{display:none}
+.mash-brand.show li a img{display:inline-block !important}
+.mash-menu.hideRippleEffect .ripple-wrapper{display:none !important}
+@media screen and (max-width: 767px){.hideContent{display:none}}
+
+
